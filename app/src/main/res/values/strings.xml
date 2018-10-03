@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUpForum</string>
+    <string name="save_button">save</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="passwordconfirm">Confirm Password:</string>
+    <string name="toast1">You did not enter one of the fields!</string>
+    <string name="toast2">Passwords do not match!</string>
+</resources>
